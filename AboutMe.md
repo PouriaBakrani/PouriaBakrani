@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PouriaBakrani
+- 👀 I’m interested in Python, JS, React, Linux.
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on python projects and etc.
+- 📫 How to reach me : drop me a email at pouryabakrani96@gmail.com
